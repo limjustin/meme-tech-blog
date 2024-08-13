@@ -1,6 +1,8 @@
+const { Instagram } = require("@mui/icons-material");
+
 module.exports = {
-  title: `oy`,
-  type: `tech`,
+  title: `MEME`,
+  type: ` Tech Blog`,
   logo: `/logo.svg`,
   description: `웹 프론트엔드 개발과 관련한 포스트를 작성하고 있습니다.`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
@@ -15,18 +17,18 @@ module.exports = {
   ga: 'G-BE92GNG3XF', // Google Analytics Tracking ID
   as: 'ca-pub-4083591465738564',
   author: {
-    name: `신주영`,
+    name: 'MEME Tech Blog 💄',
     bio: {
       role: `개발자`,
       description:
-        '디자인과 성능 최적화에 관심이 많은 프론트엔드 개발자입니다. 온라인에서는 조이라는 닉네임으로 활동하고 있습니다.',
-      thumbnail: 'myPicture.jpg', // Path to the image in the 'asset' folder
-      thumbnailSmall: 'myPicture_small.jpg',
+        '나만의 메이크업 메이트',
+      thumbnail: 'meme_main_logo.png', // Path to the image in the 'asset' folder
+      thumbnailSmall: 'meme_main_logo.jpg',
     },
     social: {
-      github: `https://github.com/S-jooyoung`,
-      linkedIn: `https://www.linkedin.com/in/joy-shin/`,
-      email: `jooyoung.dev@gmail.com`,
+      github: `https://github.com/MEME-UMC`,
+      instagram: `https://www.instagram.com/meme.makeupmate/`,
+      email: `limjyjustin@gmail.com`
     },
   },
 
