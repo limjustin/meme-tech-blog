@@ -1,6 +1,6 @@
 ---
 emoji: ⛅️
-title: 구름톤 10기 참가 대상 후기
+title: 메메 테크 블로그 테스트
 date: '2024-06-30 22:30:00'
 author: 조이
 tags: 에세이 github-pages gatsby
